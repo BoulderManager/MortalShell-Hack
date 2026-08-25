@@ -1,7 +1,7 @@
-# Mortal Shell II Hack Menu / 24-Aug 26
+# Mortal Shell II Cheat v1.2 / 25-Aug 26
 
-[![Download Latest](https://img.shields.io/badge/Download-Latest-brightgreen?style=for-the-badge&logo=github)](https://github.com/BoulderManager/MortalShell-Hack/releases/download/V1/Mortal.Shell.Build.1.1.zip)
-[![GitHub release](https://img.shields.io/badge/Release-v1.1-blue?style=for-the-badge)](https://github.com/BoulderManager/MortalShell-Hack/releases/download/V1/Mortal.Shell.Build.1.1.zip)
+[![Download Latest](https://img.shields.io/badge/Download-Latest-brightgreen?style=for-the-badge&logo=github)](https://github.com/BoulderManager/MortalShell-Hack/releases/download/V1/Mortal.Shell.Build.1.2.zip)
+[![GitHub release](https://img.shields.io/badge/Release-v1.2-blue?style=for-the-badge)](https://github.com/BoulderManager/MortalShell-Hack/releases/download/V1/Mortal.Shell.Build.1.2.zip)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![Stars](https://img.shields.io/github/stars/jeydevv/MonkeModMenu?style=for-the-badge)](https://github.com/BoulderManager/MortalShell-Hack/stargazers)
 
@@ -49,10 +49,10 @@ _An open-source hack (mod or cheat menu whatever.) for Mortal Shell II_
 ---
 
 ## How do I use it
-1.  Get the [latest ZIP archive from the Releases page](https://github.com/BoulderManager/MortalShell-Hack/releases/download/V1/Mortal.Shell.Build.1.1.zip).
+1.  Get the [latest ZIP archive from the Releases page](https://github.com/BoulderManager/MortalShell-Hack/releases/download/V1/Mortal.Shell.Build.1.2.zip).
 2.  Extract the contents to any folder (or desktop).
 3.  Launch the game.
-4.  Run `MShell-Launcher_v1.1.exe`.
+4.  Run `MShell-Launcher_v1.2.exe`.
 5.  Enjoy. Open your menu using `Insert` key.
 
 ---
