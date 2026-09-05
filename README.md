@@ -10,7 +10,7 @@ _An open-source hack (mod or cheat menu whatever.) for Mortal Shell II_
 
 
 
-![Mortal Shell II Cheat Preview](https://github.com/BoulderManager/MortalShell-Hack/blob/main/assets/image.png)
+![Mortal Shell II Cheat Preview](https://github.com/BoulderManager/MortalShell-Hack/blob/main/assets/image.jpg)
 
 ---
 
